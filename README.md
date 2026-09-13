@@ -83,7 +83,7 @@ Swing / AWT	Graphics rendering & input handling
 
 
 ### Author -
-Harsh
+Khyati Tyagi
 📍 Bennett University
 💡 Passionate about Java, Machine Learning, Computer Vision, and Game Development
 
